@@ -1,0 +1,15 @@
+{
+  "name": "donurks/rabbitmq-subscribe-publish-demo",
+  "description": "A RabbitMq demo",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "donurks",
+      "email": "donurks@gmail.com"
+    }
+  ],
+  "require": {
+    "php-amqplib/php-amqplib": "v2.6.3"
+  }
+}
